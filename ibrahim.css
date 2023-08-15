@@ -1,0 +1,25 @@
+ body{
+    background-color: lightblue;
+ }
+
+#Pborder{
+    border: dashed black 5px;
+}
+
+#middle{
+    margin-left: 540px;
+}
+
+#middle2{
+    margin-left: 400px;
+}
+
+#gang{
+        display: block;
+        width: 100%;
+        border: none;
+        padding: 14px 28px;
+        font-size: 16px;
+        cursor: pointer;
+        text-align: center;
+}
